@@ -9,7 +9,7 @@
     "@types/react-dom": "16.0.9",
     "@types/react-loader": "^2.4.3",
     "@types/styled-components": "^4.0.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "node-cache": "^4.2.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
